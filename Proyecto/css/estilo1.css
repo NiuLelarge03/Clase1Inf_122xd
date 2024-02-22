@@ -1,0 +1,29 @@
+*
+{
+    margin: 20px;
+}
+
+body
+{
+    font-family: Tahoma;
+}
+h1
+{
+    padding: 10px;
+    border: 15px;
+    border-style: ridge;
+    color:rgb(221, 0, 111);
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+}
+p
+{
+    color: darkblue;
+    text-align: justify;
+    background-color: lightgreen;
+}
+img
+{
+    width: 30%;
+}
